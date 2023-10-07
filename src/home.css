@@ -1,0 +1,12 @@
+*{
+    font-family: 'Comfortaa', 'cursive';
+}
+
+.containerCss{
+    scroll-snap-type:y mandatory;
+    scroll-behavior: smooth;
+}
+
+.proyectCss{
+    scroll-snap-align: start;
+}
