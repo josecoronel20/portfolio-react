@@ -8,7 +8,7 @@ setClaseAgregada(!claseAgregada)
 }
 
     return(
-        <div className="flex  items-center gap-2 bg-purple-100 p-3 rounded-lg" onClick={handleClick}>
+        <div className="flex  items-center gap-2 bg-purple-100 p-3 rounded-lg drop-shadow-md" onClick={handleClick}>
             <div className="cursor-pointer hover:scale-110 transition ease-linear">
                 {svg}
             </div>

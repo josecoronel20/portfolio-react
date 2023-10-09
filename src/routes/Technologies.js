@@ -4,7 +4,7 @@ import { Icon } from "@iconify/react";
 
 const Technologies = () => {
   return (
-    <div className="bg-purple-50 min-h-screen max-h-screen p-10 -mb-20 overflow-scroll flex justify-center">
+    <div className="bg-purple-50 p-10 h-screen mb-20 flex justify-center">
       <div className="w-screen flex flex-col gap-5  max-w-lg">
         <h1 className="text-3xl font-bold">Tencologías y conocimientos</h1>
         <div className="flex flex-col gap-5">
